@@ -1,4 +1,4 @@
-{
+{ /* change*/
   "extends": ["../../.eslintrc.json"],
   "ignorePatterns": ["!**/*"],
   "overrides": [
